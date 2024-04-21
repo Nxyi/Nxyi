@@ -3,10 +3,8 @@
 </p>
 
 <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Nxyi-Nxyi?label=MCName&color=%231a1aff&link=https%3A%2F%2Fnamemc.com%2Fprofile%2FNxyi.1">
-    <img alt="Discord" src="https://img.shields.io/discord/1063226592274419852?style=social&logo=discord&logoColor=%233333ff&label=DarkDev%20Discord&cacheSeconds=5">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nxyi?style=social">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Nxyi">
+    <img src="https://github-readme-stats.vercel.app/api?username=nxyi&show_icons=true&theme=dark&rank_icon=github&custom_title=EuGaming's%20Skid%20Stats.">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxyi&layout=compact&langs_count=4&bg_color=ffffff00&count_private=false&hide_border=true" height="150" alt="most_used_langs">
   </div>
 
 <p align=center><a href = "https://github.com/orgs/Dark-Developments/repositories" style="text-align:center">organisation</a></p>
